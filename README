@@ -1,5 +1,13 @@
 # The Login
 
+#### est. 14 August, 2018
+
+## Setup & Run
+
+- `yarn install`
+- `yarn dev`
+
+
 Dependencies:
 
 1. NodeJS (version 8 and above would be good)
